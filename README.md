@@ -7,16 +7,16 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 I am a passionate developer focused on creating **practical digital solutions**. Currently, I am sharpening my skills at **SENATI Pucallpa**, aiming to become a high-impact **Full Stack Developer**.
 
-- 📍 Based in: **Pucallpa, Peru**
-- 📚 Currently studying: Software Architecture & Mobile Development.
-- 🎯 Goal: Building scalable applications that solve real-world problems.
+-  Based in: **Pucallpa, Peru**
+-  Currently studying: Software Architecture & Mobile Development.
+-  Goal: Building scalable applications that solve real-world problems.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend & Mobile
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -35,7 +35,7 @@ I am a passionate developer focused on creating **practical digital solutions**.
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
 | Project | Description | Image |
 | :--- | :--- | :--- |
@@ -45,14 +45,14 @@ I am a passionate developer focused on creating **practical digital solutions**.
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=PANDA09ZERO&show_icons=true&theme=radical" alt="GitHub Stats" width="400">
 </p>
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 If you'd like to talk about web development, IoT, or any interesting project:
 
 - **Main Portfolio:** [PANDA09ZERO](https://github.com/PANDA09ZERO)
