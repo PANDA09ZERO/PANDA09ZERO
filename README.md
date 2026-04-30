@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Cristian Vásquez Gómez
+# Hi there , I'm Cristian Vásquez Gómez
 ### Software Developer | Full Stack Aspirant | Student at SENATI
 
 <p align="center">
