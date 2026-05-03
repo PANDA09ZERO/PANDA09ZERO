@@ -42,12 +42,6 @@ I am a passionate developer focused on creating **practical digital solutions**.
 | **Sembrando Huellas** | An environmental platform for reforestation and education. | <img src="https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?w=200&auto=format&fit=crop" width="150"> |
 | **Digital Invitations** | A custom system for managing and designing modern invitations, developed as a project for a wedding. | <img src="https://images.unsplash.com/photo-1511285560929-80b456fea0bc?w=200&auto=format&fit=crop" width="150"> |
 
----
-
-## GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=PANDA09ZERO&show_icons=true&theme=radical" alt="GitHub Stats" width="400">
-</p>
 
 ---
 
